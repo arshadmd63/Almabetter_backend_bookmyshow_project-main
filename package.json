@@ -1,0 +1,6 @@
+$ npm start
+
+> my-project@1.0.0 start /path/to/my-project
+> node server.js
+
+Server listening on port 3000
