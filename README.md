@@ -114,7 +114,7 @@ We embrace contributions from our community of enthusiasts! If you're eager to c
 
 ## Contributions
 
-This project was conceived, designed, and implemented by Ankit Singh. As the sole author and developer, I have crafted every aspect of this project, from inception to completion.
+This project was conceived, designed, and implemented by md arshad. As the sole author and developer, I have crafted every aspect of this project, from inception to completion.
 
 While this project was created independently, I appreciate your interest and encourage you to explore and use it. If you have any questions, feedback, or suggestions, please feel free to reach out.
 
